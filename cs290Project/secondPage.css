@@ -1,0 +1,38 @@
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+body{
+  background-color: #98002E;
+}
+h1{
+  text-align: center;
+  color: #F9A01B;
+}
+div.scrollbox{
+  height: 200px;
+  width: 100%;
+  overflow: scroll;
+}
+
+table{
+  width:100%
+}
+th, td {
+  border: 1px solid black;
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+#previous-page{
+ position: absolute;
+ left: 0px; 
+}
+
+#next-page{
+ position: absolute;
+ right: 0px; 
+}

@@ -1,0 +1,45 @@
+
+body{
+  background-color: #41B6E6;
+}
+
+img{
+  width: 30%;
+  position: relative;
+  left: 33%;
+ 
+}
+
+h1{
+  color: #DB3EB1;
+  text-align: center;
+}
+#second-page{
+ position: absolute;
+ right: 0px; 
+}
+
+.slideShow{
+  
+  position: relative;
+  margin: auto;
+  
+}
+
+.pictures{
+  display: none;
+}
+
+.previous, .next{
+ 
+  position: relative;
+  
+  padding: 20px;
+  left: 30%;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  user-select: none;
+  
+  
+}
